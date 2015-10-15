@@ -1,0 +1,18 @@
+{
+  "name": "generator-componenttemplate",
+  "version": "0.0.1",
+  "description": "A component template",
+  "files": [
+    "generators/app",
+    "generators/router"
+  ],
+  "keywords": [
+    //"yeoman-generator",
+    "componenttemplate"
+  ],
+  "author": "Christian Persson",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^0.20.3"
+  }
+}
