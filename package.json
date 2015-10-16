@@ -1,5 +1,5 @@
 {
-  "name": "generator-componenttemplate",
+  "name": "generator-bowerwithgulpcomponent",
   "version": "0.0.1",
   "description": "A component template",
   "files": [
@@ -7,7 +7,7 @@
     "generators/router"
   ],
   "keywords": [
-    //"yeoman-generator",
+    "yeoman-generator",
     "componenttemplate"
   ],
   "author": "Christian Persson",
